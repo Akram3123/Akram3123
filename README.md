@@ -5,7 +5,7 @@ I'm Mohamed Akram, a developer and final-year B.sc.,computer science student who
 **My current specialization in**
 
 **Programming Languages**: JavaScript,  
-**Web Technologies**: HTML, CSS, Bootstrap, jQuery, ReactJS, 
+**Web Technologies**: HTML, CSS, JavaScript, Bootstrap, jQuery, ReactJS, 
 
 You may discover more about me by reviewing my Resume([Mohamed.Akram.CV.w (1).pdf](https://github.com/Akram3123/Akram3123/files/10414288/Mohamed.Akram.CV.w.1.pdf))
  and thank you for taking the time to look over my profile.
